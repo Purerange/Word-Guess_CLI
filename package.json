@@ -1,0 +1,24 @@
+{
+  "name": "word-guess_cli",
+  "version": "1.0.0",
+  "description": "word guess cli game",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "install": "^0.12.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Purerange/Word-Guess_CLI.git"
+  },
+  "author": "Stevie Marsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Purerange/Word-Guess_CLI/issues"
+  },
+  "homepage": "https://github.com/Purerange/Word-Guess_CLI#readme"
+}
